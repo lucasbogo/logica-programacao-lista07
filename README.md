@@ -34,7 +34,7 @@ Continuar (s/n) ? n
 ``` 
 <br>
 
-3. Uma empresa de pesquisa resolveu entrevistar os torcedores do Paraná para saber qual a maior torcida. Faça um programa que leia um número não conhecido de respostas do time que torce: A – Atlético, C – Coritiba ou F – Foz. O programa deve encerrar quando for digitado S – sair. Mostrar ao final o total de torcedores entrevistados, a quantidade de torcedores do Atlético, a quantidade de torcedores do Coritiba e a quantidade de torcedores do Foz. Ao final listar a porcentagem de torcedores de cada time em relação ao total.
+3. Uma empresa de pesquisa resolveu entrevistar os torcedores do Paraná para saber qual a maior torcida. Faça um programa que leia um número não conhecido de respostas do time que torce: ```A – Atlético, C – Coritiba ou F – Foz```. O programa deve encerrar quando for digitado **S – sair**. Mostrar ao final o total de torcedores entrevistados, a quantidade de torcedores do Atlético, a quantidade de torcedores do Coritiba e a quantidade de torcedores do Foz. Ao final listar a porcentagem de torcedores de cada time em relação ao total.
 <br>
 
 4. A prefeitura de Foz do Iguaçu está em eleições. Apresentaram-se 3 candidatos: JOSÉ com o número 1111, MARIA com o número 2222 e JOÃO com o número 3333. Cada eleitor realiza a votação sua opção de voto, que pode ser o número de um candidato, voto branco (número 0000) ou voto nulo (qualquer número diferente dos especificados). Preparar um programa que receba e processe os dados de um número não determinado de cédulas até que seja digitado -1 para o voto, escrevendo os seguintes dados:
