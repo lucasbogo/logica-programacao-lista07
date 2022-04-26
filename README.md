@@ -16,7 +16,7 @@ Numero fora do intervalo!
 ````
 <br>
 
-2. Faça um programa para ler duas notas A e B de um aluno, e calcular a média ponderada entre estas notas (A tem peso 1 e B tem peso 2). Repetir este procedimento para uma turma composta por um número variado de alunos. Ou seja, após calcular e imprimir a média de um aluno, exibir uma mensagem perguntando ao usuário se existem mais alunos (resposta: s/n). Se tiver mais alunos, continuar o procedimento de leitura das notas e o cálculo da média até que o usuário responda 'n'. Caso a resposta não seja s ou n, indicar ao usuário que a resposta dada está incorreta e solicitar novamente para que ele responda a pergunta 'continuar (s/n)'. Repetir este processo até que o usuário entre com uma resposta correta. Utilize o comando **do-while**.
+2. Faça um programa para ler duas notas A e B de um aluno, e calcular a média ponderada entre estas notas (A tem peso 1 e B tem peso. Repetir este procedimento para uma turma composta por um número variado de alunos. Ou seja, após calcular e imprimir a média de um aluno, exibir uma mensagem perguntando ao usuário se existem mais alunos (resposta: s/n). Se tiver mais alunos, continuar o procedimento de leitura das notas e o cálculo da média até que o usuário responda 'n'. Caso a resposta não seja s ou n, indicar ao usuário que a resposta dada está incorreta e solicitar novamente para que ele responda a pergunta 'continuar (s/n)'. Repetir este processo até que o usuário entre com uma resposta correta. Utilize o comando **do-while**.
 ```
 Exemplo de tela de saída:
 Aluno 1
